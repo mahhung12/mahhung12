@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahhungg12
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently into Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by gmail : mahhungg.12@gmail.com
 
