@@ -55,8 +55,9 @@ async function generateMarkdown() {
   ${await fetchGitHubData(ossProjectRepos)}\n
   </details>\n
 
+  <details>\n
   <summary>Quick Tips</summary>\n\n
-  - 💬 How to reach me: DM [@mhung](https://twitter.com/iambolajiayo) on Gmail.\n
+  - 💬 How to reach me: DM [@mhung](mailto:mhung.forwork@gmail.com) on Gmail.\n
   - 📬 Where to find me: [AgeOf23](https://age-of-23.vercel.app/)
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
   </details>\n
