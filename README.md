@@ -3,8 +3,8 @@
 <hr>
 <p>Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.</p>
 <hr>
-<p><a href="https://github.com/mHung/mHung#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mHung&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
-<p><a href="https://github.com/mHung/mHung#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mHung&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
+<p><a href="https://github.com/mHung/mHung#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mahhung12&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=000000&amp;hide_border=true&amp;show_icons=true" alt="GitHub-Stats-Card-Dark"></a></p>
+<p><a href="https://github.com/mHung/mHung#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mahhung12&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=000000&amp;hide_border=true&amp;show_icons=true" alt="GitHub-Stats-Card-Light"></a></p>
   </div>
 <hr>
 <h2>Highlights</h2>
@@ -18,24 +18,18 @@
 <li>More coming soon :).</li>
 </ul>
   </details>
+  <details>
   <summary>Quick Tips</summary>
 <ul>
 <li>
-<p>💬 How to reach me: DM <a href="https://twitter.com/iambolajiayo">@iambolajiayo</a> on X (Twitter).</p>
+<p>💬 How to reach me: DM <a href="mailto:mhung.forwork@gmail.com">@mhung</a> on Gmail.</p>
 </li>
 <li>
-<p>📬 Where to find me: Subscribe to my <a href="https://bawd.bolajiayodeji.com/subscribe">newsletter</a> to hear from me bi-weekly or send a game request on <a href="https://chess.com/member/bolajiayodeji">chess.com</a>.</p>
+<p>📬 Where to find me: <a href="https://age-of-23.vercel.app/">AgeOf23</a></p>
 </li>
 <li>
 <p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
 </li>
-<li>
-<p>💙 Fun fact: I'm in a blissful relationship <a href="https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&amp;version=NKJV">with Jesus Christ</a>. Check <a href="https://bit.ly/3KYYHij">this</a> out :).</p>
-</li>
 </ul>
   </details>
 <hr>
-<p><a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
-  <div align="center">
-<p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
-  </div>
