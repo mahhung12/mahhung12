@@ -25,8 +25,8 @@ async function generateMarkdown() {
 
     const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
-    const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=mahhung12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="mahhung12's GitHub stats" />)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
-    const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=mahhung12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="mahhung12's GitHub stats" />)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
+    const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=mahhung12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
+    const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=mahhung12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
 
     const markdownText = `<div align="center">\n
 
@@ -63,11 +63,7 @@ async function generateMarkdown() {
 
   ---\n
 
-  <a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
-
-  <div align="center">\n
-   <a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a>\n
-  </div>`;
+  `;
 
     const result = md.render(markdownText);
 
