@@ -1,6 +1,6 @@
-<!---------------------------- Banner Image ----------------------------->
+<!---------------------------- Banner Image -----------------------
 ![Harry - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
-
+------>
 
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, My name is Hung, u guys can call me Harry!😇
@@ -30,7 +30,7 @@
 <br>
 
 
-<!----------------------------- Open Source Projects --------------------------->
+<!----------------------------- Open Source Projects --------------------
 ## 🔖 Some of my Repositories
 
 <p align="left">
@@ -45,24 +45,24 @@
 </p>
 <br>
 <br>
-
+------->
 
 <!--------------------------------- Social Links --------------------------------->
 ## 🤝🏻 Connect with Me
 
 <p align="left">
-<a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
+<a href="mailto:mahhungg.12@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/manh-hung-887199212/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/devraj_uiux/" style="text-decoration:none">
+<!-- <a href="https://www.instagram.com/devraj_uiux/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
+</a> -->
+<!-- <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+</a> -->
 </p>
 
 
