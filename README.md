@@ -1,9 +1,9 @@
 <!---------------------------- Banner Image ----------------------------->
-![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
+![Harry - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
 
 
 <!---------------------------- Typewriter animation ----------------------------->
-# Hello👋, It's me Devraj!😇
+# Hello👋, My name is Hung, u guys can call me Harry!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 
