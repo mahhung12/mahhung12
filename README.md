@@ -14,11 +14,11 @@
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
 - 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community.
-- 👨‍💻 Explore my diverse projects at https://devrajchatribin.com/.
-- 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
-- 📫 Reach out to me at: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
-- 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY)
-- ⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**!
+- 👨‍💻 Explore my diverse projects at https://mhung.blog/.
+- 💬 Ask me about **Web Development, Software, Architechture.**
+- 📫 Reach out to me at: <a href="mailto:mahhungg.12@gmail.com">mahhungg.12@gmail.com</a>
+<!-- - 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY)  -->
+- ⚡ Fact: Chelsea 
 <br>
 <br>
 
@@ -26,7 +26,7 @@
 <!---------------------------- My Skills Section ----------------------------->
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,nextjs,nodejs,expressjs,sass,tailwind,threejs,materialui,bootstrap,redux,figma,mongodb,appwrite,postgres,mysql,docker,cypress,firebase,git,github,gitlab,postman,vscode,eclipse,vercel,netlify,jenkins" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vuejs,ts,nextjs,aws,nodejs,expressjs,nestjs,sass,tailwind,threejs,materialui,bootstrap,redux,figma,vite,npm,yarn,mongodb,postgres,mysql,docker,rabbitmq,cypress,firebase,git,github,gitlab,postman,vscode,vercel,netlify,jenkins,discord&perline=15" align="center">
 <br>
 
 
