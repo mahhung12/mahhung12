@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
-- 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community.
+<!-- - 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community. -->
 - 👨‍💻 Explore my diverse projects at https://mhung.blog/.
 - 💬 Ask me about **Website, Development, Software, Architechture,...**
 - 📫 Reach out to me at: <a href="mailto:mahhungg.12@gmail.com">mahhungg.12@gmail.com</a>
