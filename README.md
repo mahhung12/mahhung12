@@ -13,9 +13,9 @@
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
 <!-- - 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community. -->
-- 👨‍💻 Explore my diverse projects at https://mhung.blog/.
+<!--- 👨‍💻 Explore my diverse projects at https://mhung.blog/.  -->
 - 💬 Ask me about **Website, Development, Software, Architechture,...**
-- 📫 Reach out to me at: <a href="mailto:mahhungg.12@gmail.com">mahhungg.12@gmail.com</a>
+<!--- 📫 Reach out to me at: <a href="mailto:mahhungg.12@gmail.com">mahhungg.12@gmail.com</a>
 <!-- - 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY)  -->
 - ⚡ Fact: Chelsea 
 <br>
